@@ -1,0 +1,1 @@
+把 measurementInterval 加入 argument 然後測試
